@@ -694,7 +694,7 @@
 		<logback.version>1.2.10</logback.version>
 		<h2database.version>1.4.200</h2database.version>
 		<derby.version>10.12.1.1</derby.version>
-		<activemq.version>5.16.0</activemq.version>
+		<activemq.version>5.16.3</activemq.version>
 		<jsr250-api.version>1.0</jsr250-api.version>
 		<jetty.version>9.4.12.v20180830</jetty.version>
 		<lucene.version>8.5.1</lucene.version>
