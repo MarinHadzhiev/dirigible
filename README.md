@@ -224,3 +224,4 @@ If you like to contribute to Dirigible, please read the [Contributor's guide](CO
 - Issues: [https://github.com/eclipse/dirigible/issues](https://github.com/eclipse/dirigible/issues)
 
 - Eclipse Foundation Help Desk: https://gitlab.eclipse.org/eclipsefdn/helpdesk
+- 
